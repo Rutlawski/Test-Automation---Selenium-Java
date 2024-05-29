@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Example Tests">
+        <parameter name="product" value="Dress"/>
+        <groups>
+            <run>
+                <exclude name="Homepage Test"></exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="pl.skleptest.SearchInputTest"/>
+            <class name="pl.skleptest.HomepageTest"/>
+            <class name="pl.skleptest.RegisterTest"/>
+        </classes>
+    </test>
+</suite>
