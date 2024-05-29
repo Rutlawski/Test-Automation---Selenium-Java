@@ -1,4 +1,4 @@
-# Test-Automation - Selenium + Java
+# Test Automation - Selenium + Java
 
 This repository contains some test cases written in **Java** in _Selenium_ during my learning.
 
