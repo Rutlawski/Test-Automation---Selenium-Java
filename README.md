@@ -8,5 +8,5 @@ ________
 
 To repozytorium zawiera kilka test case'ów, napisanych w **Java** w _Selenium_ podczas mojej nauki.
 
-Folder Selenium zawiera kilka małych testów, dotyczących różnych Web Elementów, oraz jedne większy E2E test (opisujący całą podróż użytkownika) na testowej aplikacji sklepowej.
+Folder Selenium zawiera kilka małych testów, dotyczących różnych Web Elementów, oraz jeden większy E2E test (opisujący całą podróż użytkownika) na testowej aplikacji sklepowej.
 Folder NG zawiera trzy testy testy, używające trzech annotacji TestNG, jak DataProvider, Parameters etc.
